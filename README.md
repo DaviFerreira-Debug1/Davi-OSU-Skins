@@ -1,5 +1,10 @@
 <div align="center">
 
+<a href="https://osu.ppy.sh/users/14634790">
+  <img src="./images/profile.png" width="500">
+</a>
+
+
 # [DAVI](https://osu.ppy.sh/users/14634790)
 
 <a href="https://osu.ppy.sh/users/14634790">
