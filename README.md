@@ -25,3 +25,18 @@
 <a href="https://davi.s-ul.eu/E3w3aWDm">
   <img src="./images/aristia-edit.png" width="800" alt="Aristia (Edit)">
 </a>
+
+### [Decaten Ietherial](https://davi.s-ul.eu/YKlFz73u)
+<a href="https://davi.s-ul.eu/YKlFz73u">
+  <img src="./images/decaten_ietherial.png" width="800" alt="Decaten Ietherial">
+</a>
+
+### [OwoTuna 1.2 Selyu](https://davi.s-ul.eu/rmL9PJQN)
+<a href="https://davi.s-ul.eu/rmL9PJQN">
+  <img src="./images/OwoTuna 1.2 Selyu.png" width="800" alt="OwoTuna 1.2 Selyu">
+</a>
+
+### [azr8dusk](https://davi.s-ul.eu/lFzKhZ23)
+<a href="https://davi.s-ul.eu/lFzKhZ23">
+  <img src="./images/azr8dusk.png" width="800" alt="azr8dusk">
+</a>
