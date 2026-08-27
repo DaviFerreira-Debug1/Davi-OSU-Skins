@@ -1,6 +1,5 @@
 <div align="center">
 
-a href="https://osu.ppy.sh/users/14634790">
   <img src="./images/profile.png" width="500" alt="Davi osu! profile">
 </a>
 
