@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./images/profile.png" width="500" alt="Davi osu! profile">
+  <img src="./images/profile.png" width="300" alt="Davi osu! profile">
 </a>
 
 # [DAVI](https://osu.ppy.sh/users/14634790)
