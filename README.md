@@ -1,12 +1,10 @@
 <div align="center">
 
-
-# [DAVI](https://osu.ppy.sh/users/14634790)
-
-<a href="https://osu.ppy.sh/users/14634790">
+a href="https://osu.ppy.sh/users/14634790">
   <img src="./images/profile.png" width="500" alt="Davi osu! profile">
 </a>
 
+# [DAVI](https://osu.ppy.sh/users/14634790)
 </div>
 
 ### [Rafis 2018 HDDT](https://davi.s-ul.eu/WCdmFAZK)
